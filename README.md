@@ -99,6 +99,7 @@ Machine learning :
 * SK-Opt
 * XGBoost
 * CatBoost
- Miscellaneous :
+ 
+  Miscellaneous :
 
 * Google colab tools
